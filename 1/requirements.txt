@@ -1,0 +1,18 @@
+Functional
+ - System bude evidovat databazu uzivatelov
+ - System bude rozlisovat viacere druhy clenstva (mesacne, rocne, skusobne)
+ - Uzivatelia budu mat v systeme priradeny unikatny identifikator (ICO)
+ - System bude na identifikaciu uzivatela pouzivat bezkontaktnu cipovu kartu
+ - System bude evidovat poplatky za clensvo jednotlivych uzivatelov
+ - System bude rozlisovat dva typy aktivit - individualne a skupinove
+ - System umozni rezervaciu sportovisk uzivatelmi pomocou weboveho rozhrania
+ - System bude obsahovat mechanizmus na stornovanie rezervacii
+ - System bude zbierat statistiky o vyuzivani jednotlivych aktivit, ku ktorym bude mat pristup manazer
+ - System bude vediet komunikovat s ekonomickym systemom
+
+Non-functional
+ - System bude pristupny aj pre uzivatelov so zrakovym a sluchovym postihnutim
+ - System bude skalovatelny, pri uvedeni do prevadzky bude schopny obsluzit 10000 uzivatelov naraz
+ - System znemozni vyuzivanie jedneho uctu viacerymi osobami
+ - System bude optimalizovany pre vsetky moderne desktopove aj mobilne prehliadace
+ - System moze byt nepristupny maximalne 1 hodinu mesacne
