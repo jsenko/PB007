@@ -16,3 +16,14 @@ Non-functional
  - System znemozni vyuzivanie jedneho uctu viacerymi osobami
  - System bude optimalizovany pre vsetky moderne desktopove aj mobilne prehliadace
  - System moze byt nepristupny maximalne 1 hodinu mesacne
+
+
+Uloha:
+- implementational class diagram
+ - agregace, kompozice
+ - multiplicita
+ - navigovatelnost
+ - dedicnost
+ - jednoduche get/set netreba
+ - konstrukntory netrivialne
+ - datove typy
